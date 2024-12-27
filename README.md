@@ -24,5 +24,4 @@ This is a simple number guessing game implemented in Java. The computer randomly
 3. Compile and run the `Main` class.
 4. Follow the on-screen instructions to play the game.
 
-## Example of Gameplay:
 
